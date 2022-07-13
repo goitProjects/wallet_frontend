@@ -1,32 +1,26 @@
-# Проект React.js + Node.js - Wallet
+# Проект React.js - Wallet BC-14_React.
 
-Фронтенд часть проекта. Это веб-приложение имеющее мобильную, планшетную и
-десктопную версии. Приложение помогает пользователю вести свой бюджет и
-анализировать его в разрезе выбранного месяца. Пользователь может
-зарегестрироваться, а зарегестрированный пользователь при повторном входе
-залогиниться в приложении. Добавлять транзакции дохода и расхода. Анализировать
-транзакции дохода и расхода на графике за определенный месяц по которому есть
-транзакции.
+Фронтенд частина проекту. Цей веб-додаток має мобільну, планшетну та
+десктопну версії. Він допомагає користувачу вести свій бюджет та
+анализівути його в розрізі вибраного місяця. Користувач може
+зареєструватися, а зареєстрований користувач при повторному вході
+залогінитись в додатку. Додавати транзакції доходів та витрат. Анализівути
+транзакції доходів та витрат на графіку за вибраний месяць по которому є
+транзакції.
 
-## Рабочая ссылка проекта:
+## Робоче посилання проекту:
 
-### https://app-wallet-14.herokuapp.com/
+### https://exammple-app-link
 
-## Материалы проекта:
+## Матеріали проекту:
 
-1. [Макеты (мобилка, планшет, десктоп)](https://drive.google.com/drive/folders/1NcSOtOiJ__UArIL8tA_B047_XuSXPGGg?usp=sharing)
-2. [Репозиторий бэкенда](https://github.com/goitProjects/wallet_backend)
-3. [Документация бэкенда](https://mywallet.goit.co.ua/doc/)
-4. [Бэклог проекта](https://drive.google.com/file/d/1Ez9X_sNlee_8m7_SeJ0ojrvnEjAOAKqP/view)
-5. [Ссылка приглашение к доске в trello](https://trello.com/invite/b/rlrcs0b3/6d68d142588f09b0ec86637eee481364/mywallet-react14)
-6. [Доска в trello](https://trello.com/b/rlrcs0b3/mywallet-react14)
-7. [Ссылка на инструкцию по работе с github](https://docs.google.com/document/d/1y-nMdpPIIP83rbqPYt6kM_KXMC83UPbkbxKqgaHlnfI/edit)
-8. [Реализацию redux store смотреть в redux devtools готового проекта, они в продакшене не отключены](https://app-wallet-14.herokuapp.com/)
-9. [Репозиторий фронтенда](https://github.com/goitProjects/wallet_frontend)
+1. [Макети (мобілка, планшет, десктоп)](https://www.figma.com/file/hRnTGRtHQNhyItKuNwO9hT/WALLET-(Copy)-(Copy)?node-id=0%3A1)
+2. [Документація бекенду](https://wallet.goit.ua/docs/)
+3. [ТЗ](https://docs.google.com/spreadsheets/d/1AlgSOhgw02taZXpVnjjzJmkmee-nqaPP-D8yuzENLos/edit?usp=sharing)
+4. [Реалізацію redux store можливо переглянути в redux devtools готового проекту, вони в продакшені не відключені](https://exammple-app-link)
+5. [Репозиторій фронтенду](https://github.com/memx86/team-project-react)
 
-## Дополнительная информация:
+## Додаткова інформація:
 
-Ветка master самая актуальная и базовая в проекте, build сделанный из нее лежит
-и работает на сервере.
+Гілка wallet_en-uk актуальна та містить в собі версію проекта розміщену на https://goit.ua/proekty/
 
-[Реализация этого проекта другой группой, результат, репозиторий утерян](https://mywallet.goit.co.ua/)
